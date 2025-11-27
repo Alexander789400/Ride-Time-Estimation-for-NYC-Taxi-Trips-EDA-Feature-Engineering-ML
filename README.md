@@ -42,9 +42,11 @@ To build a predictive model that estimates **total ride duration (in seconds)** 
 ###  **Model Evaluation**
 Metrics used:
 
--MAE : Measures average prediction error 
--RMSE : Penalizes larger errors 
--R² Score : Indicates model performance quality 
+MAE : Measures average prediction error 
+
+RMSE : Penalizes larger errors 
+
+R² Score : Indicates model performance quality 
 
 ---
 
