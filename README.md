@@ -15,21 +15,7 @@ This project focuses on building a **machine learning model** that predicts the 
 
 To build a predictive model that estimates **total ride duration (in seconds)** for NYC taxi trips using trip-level features and spatial-temporal information.
 
----
-
-##  Workflow
-
-###  **Exploratory Data Analysis (EDA)**
-- Ride duration distribution analysis  
-- Pickup & dropoff spatial patterns  
-- Effect of hours, weekdays, months  
-- Outliers and variance check
-
-###  **Feature Engineering**
-- Extracting time-based features (hour, day, month, weekend)  
-- Distance calculation using Haversine formula  
-- Speed estimation, duration conversion  
-- Encoding categorical attributes  
+---  
 
 ###  **Model Building**
 - Baseline model for comparison  
@@ -43,7 +29,9 @@ To build a predictive model that estimates **total ride duration (in seconds)** 
 Metrics used:
 
 MAE : Measures average prediction error 
+
 RMSE : Penalizes larger errors 
+
 R² Score : Indicates model performance quality 
 
 ---
